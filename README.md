@@ -8,3 +8,8 @@
 
 - [Linkedin](https://linkedin.com/in/PercyHuamanTacuri)
 - [Github](https://github.com/Percy91)
+
+## Notas
+
+- [Mindset](./mindset.md)
+
