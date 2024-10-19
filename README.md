@@ -9,7 +9,7 @@
 - [Linkedin](https://linkedin.com/in/PercyHuamanTacuri)
 - [Github](https://github.com/Percy91)
 
-## Notas
+## Notas de lectura
 
 - [Mindset](./mindset.md)
 
