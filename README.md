@@ -8,6 +8,7 @@
 
 - [Linkedin](https://linkedin.com/in/PercyHuamanTacuri)
 - [Github](https://github.com/Percy91)
+- [Facebok](https://www.facebook.com/percy.ht)
 
 ## Notas de lectura
 
