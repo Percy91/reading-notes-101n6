@@ -10,7 +10,7 @@ Soy Percy, un instalador peruano de 33 años que vive en Vancouver, Canadá. Me 
 - [Github](https://github.com/Percy91)
 - [Facebok](https://www.facebook.com/percy.ht)
 
-## Notas de lectura
+## Mis notas de lectura
 
 - [Mindset](./mindset.md)
 
